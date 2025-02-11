@@ -1,11 +1,19 @@
 # Daniele
 
 
-## Introduction
-Welcome to the **PET Project**! This repository contains code and resources for managing and interacting with PETs efficiently. Whether you're a developer, researcher, or enthusiast, this project provides essential tools and functionality to enhance PET-related operations.
+# About Me
 
-## Features
-- 🐾 Easy-to-use interface
-- 📦 Modular and scalable architecture
-- ⚡ High-performance algorithms
-- 🔒 Secure and reliable
+## Introduction
+Hello! My name is **Daniele**, and I am **30 years old**. Welcome to my GitHub profile!
+
+## Interests
+- 🔒 Passionate about **cybersecurity** and currently attending **CyberAcademy in Naples**.
+- 📚 Avid reader of **fantasy, thriller, and mildly horror books**.
+- 🐾 **Animal lover**.
+- 🎓 Graduated in **Automation Engineering**.
+
+## Contact
+Feel free to connect with me for discussions about cybersecurity, books, or automation engineering!
+
+---
+Thanks for visiting my profile! 😊
